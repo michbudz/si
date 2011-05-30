@@ -1,0 +1,13 @@
+@import url("common.css");
+
+div.ramka {background-color:#FFE4E1 ;   width: 70%}	
+#graph { border: 2px solid black; }
+input { width:5em }
+
+.center { margin-left:auto;margin-right:auto; width:50em }
+.lbl { width:18em;padding-right:0.5em;display:inline;float:left;text-align:right }
+.slider { float:left;position:relative;top:0.2em }
+
+.axis { font-size:0.7em }
+#xlabel { position:relative;width:800px }
+.tick { position:absolute;color:#666;padding:0;margin:0;text-align:center;overflow:hidden;width:20px }
